@@ -1,0 +1,13 @@
+in this assignment are mandatory requirements give below
+
+1)laptop with installed window
+2)internet
+3)knowldge about python language and syntax
+4)know about compler and software that use in perform task
+5)knowldge about api
+6)knowldge about Html language
+7)knowlge about python labriers 
+8)knoldge about data scrape from website
+9)searching caliper high
+10)creative thinking , self learning
+11)knowldge about ploting data in bar chat
